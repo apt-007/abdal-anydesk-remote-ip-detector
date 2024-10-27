@@ -7,11 +7,8 @@
 
 ## 📸 Screenshot
 
-<video width="800" height="468" controls>
-  <source src="abdal-anydesk-remote-ip-detector-proof.mp4?raw=true" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
- 
+ <p align="center"><img src="abdal-anydesk-remote-ip-detector-proof.gif?raw=true"></p>
+
 ## 💎 Introduction
 The Abdal AnyDesk Remote IP Detector is a Proof-of-Concept (PoC) tool that exploits a vulnerability in AnyDesk’s "Allow Direct Connections" feature. When this option is enabled and the connection port is set to 7070 on the attacker's system only, it allows a user with only the AnyDesk ID of the target to retrieve their public IP address without requiring any settings to be changed on the target system. Additionally, if both systems are connected to the same network, it is also possible to obtain the private IP address of the target.
 
