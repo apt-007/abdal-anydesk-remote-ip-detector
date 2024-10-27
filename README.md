@@ -8,7 +8,7 @@
 ## 📸 Screenshot
 
 <video width="800" height="468" controls>
-  <source src="abdal-anydesk-remote-ip-detector-proof.mp4" type="video/mp4">
+  <source src="abdal-anydesk-remote-ip-detector-proof.mp4?raw=true" type="video/mp4">
   Your browser does not support the video tag.
 </video>
  
