@@ -50,7 +50,7 @@ The tool will output:
 * The private IP address if the two systems are within the same local network.
 
 ## ✅ Mitigation
-Unfortunately, there is currently no user-side fix for this vulnerability. To fully address this issue, an update or patch from AnyDesk’s development team is required. Until then, users should remain cautious with the "Allow direct connections" setting and monitor for updates from AnyDesk.
+Unfortunately, there is currently no user-side fix for this vulnerability. To fully address this issue, an update or patch from AnyDesk’s development team is required.
 
 ## 🎖️ Credit
 - **Bug Discovery and PoC Developer**: Ebrahim Shafiei (EbraSha)
