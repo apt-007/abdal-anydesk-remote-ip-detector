@@ -8,6 +8,16 @@
  
 <p align="center"><img src="abdal-anydesk-remote-ip-detector-proof.gif?raw=true"></p>
 
+## 🎥 ویدیوهای اثبات آسیب‌پذیری
+
+برای مشاهده عملکرد **آسیب‌پذیری نشت آی‌پی AnyDesk**، می‌توانید ویدیوهای اثبات آسیب‌پذیری (PoC) زیر را دانلود کنید:
+
+- [📥 دانلود ویدیو اثبات ۰۱](https://github.com/ebrasha/abdal-anydesk-remote-ip-detector/raw/main/abdal-anydesk-remote-ip-detector-proof.mp4)
+- [📥 دانلود ویدیو اثبات ۰۲](https://github.com/ebrasha/abdal-anydesk-remote-ip-detector/raw/main/abdal-anydesk-remote-ip-detector-proof-2.mp4)
+
+این ویدیوها نحوه عملکرد آسیب‌پذیری را نشان می‌دهند و مراحل و تأثیر آن بر حریم خصوصی آدرس آی‌پی را توضیح می‌دهند.
+
+
 ## 💎 معرفی
 ابزار Abdal AnyDesk Remote IP Detector یک ابزار نمونه اثبات مفهوم (PoC) است که از آسیب‌پذیری در ویژگی "Allow Direct Connections" نرم‌افزار AnyDesk سوء‌استفاده می‌کند. در صورتی که این گزینه در سیستم مهاجم فعال و پورت روی 7070 تنظیم شده باشد، مهاجم می‌تواند تنها با داشتن ID AnyDesk هدف، آدرس IP عمومی سیستم هدف را به دست آورد، بدون اینکه نیازی به اعمال تنظیمات در سیستم هدف باشد. همچنین، اگر هر دو سیستم در یک شبکه محلی قرار داشته باشند، امکان دسترسی به آدرس IP خصوصی هدف نیز وجود دارد.
 

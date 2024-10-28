@@ -9,6 +9,15 @@
 
  <p align="center"><img src="abdal-anydesk-remote-ip-detector-proof.gif?raw=true"></p>
 
+## 🎥 Proof of Concept Videos
+
+To see the **AnyDesk IP Leak Vulnerability** in action, you can download the PoC demonstration videos below:
+
+- [📥 Download Proof 01](https://github.com/ebrasha/abdal-anydesk-remote-ip-detector/raw/main/abdal-anydesk-remote-ip-detector-proof.mp4)
+- [📥 Download Proof 02](https://github.com/ebrasha/abdal-anydesk-remote-ip-detector/raw/main/abdal-anydesk-remote-ip-detector-proof-2.mp4)
+
+These videos showcase how the vulnerability operates, illustrating the steps and impact on IP address privacy.
+
 ## 💎 Introduction
 The Abdal AnyDesk Remote IP Detector is a Proof-of-Concept (PoC) tool that exploits a vulnerability in AnyDesk’s "Allow Direct Connections" feature. When this option is enabled and the connection port is set to 7070 on the attacker's system only, it allows a user with only the AnyDesk ID of the target to retrieve their public IP address without requiring any settings to be changed on the target system. Additionally, if both systems are connected to the same network, it is also possible to obtain the private IP address of the target.
 
@@ -49,6 +58,8 @@ The tool will output:
 
 * The public IP address of the remote system.
 * The private IP address if the two systems are within the same local network.
+
+
 
 ## ✅ Mitigation
 Unfortunately, there is currently no user-side fix for this vulnerability. To fully address this issue, an update or patch from AnyDesk’s development team is required.
