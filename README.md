@@ -38,10 +38,11 @@ To download the executable versions of this PoC, please visit the official Relea
  
 
 ## 📦 Setup and Usage
-1. Enable Direct Connections in AnyDesk: Open AnyDesk on your system, go to Settings > Connection, then enable the option Allow direct connections. Set the port to 7070.
+1. Enable Direct Connections in AnyDesk: Open AnyDesk on your system, go to Settings > Connection, then enable the option Allow direct connections. Set the connection port to 7070.
 2. Launch the PoC Tool: Run the Abdal AnyDesk Remote IP Detector tool.
-3. Enter Target AnyDesk ID: In AnyDesk, input the AnyDesk ID of the target system you wish to check.
-4. IP Retrieval: Once the target AnyDesk ID is entered, the tool will automatically detect and display the public IP address of the target. If the two systems are on the same local network, the private IP address will also be shown.
+3. Enter Target AnyDesk ID: In the AnyDesk application on your system, input the AnyDesk ID of the target system.
+4. IP Retrieval via Network Traffic Monitoring: After entering the target's AnyDesk ID in your AnyDesk, the PoC tool automatically listens to the network traffic on your system to detect and display the public IP address of the target. If both systems are within the same local network, the tool will also display the target's private IP address.
+
 
 ## 😎 Expected Output
 The tool will output:
