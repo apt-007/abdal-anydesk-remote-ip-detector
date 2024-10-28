@@ -34,6 +34,7 @@ This vulnerability leverages the "Allow Direct Connections" feature in AnyDesk, 
 
 ## 🛠️ Development Environment Setup
 - **.NET 6**
+- **Visual Studio 2022**
  
 
 ## 🔥 Requirements
