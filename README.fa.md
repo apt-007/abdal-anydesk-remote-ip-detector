@@ -14,7 +14,7 @@
 
 - [📥 دانلود ویدیو اثبات ۰۱](https://github.com/ebrasha/abdal-anydesk-remote-ip-detector/raw/main/abdal-anydesk-remote-ip-detector-proof.mp4)
 - [📥 دانلود ویدیو اثبات ۰۲](https://github.com/ebrasha/abdal-anydesk-remote-ip-detector/raw/main/abdal-anydesk-remote-ip-detector-proof-2.mp4)
-
+-  پیشنهادی - [📥 دانلود ویدیو اثبات ۰۳](https://github.com/ebrasha/abdal-anydesk-remote-ip-detector/raw/main/abdal-anydesk-remote-ip-detector-proof-3.mp4)
 این ویدیوها نحوه عملکرد آسیب‌پذیری را نشان می‌دهند و مراحل و تأثیر آن بر حریم خصوصی آدرس آی‌پی را توضیح می‌دهند.
 
 

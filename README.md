@@ -15,6 +15,7 @@ To see the **AnyDesk IP Leak Vulnerability** in action, you can download the PoC
 
 - [📥 Download Proof 01](https://github.com/ebrasha/abdal-anydesk-remote-ip-detector/raw/main/abdal-anydesk-remote-ip-detector-proof.mp4)
 - [📥 Download Proof 02](https://github.com/ebrasha/abdal-anydesk-remote-ip-detector/raw/main/abdal-anydesk-remote-ip-detector-proof-2.mp4)
+- Recommended - [📥 Download Proof 03](https://github.com/ebrasha/abdal-anydesk-remote-ip-detector/raw/main/abdal-anydesk-remote-ip-detector-proof-3)
 
 These videos showcase how the vulnerability operates, illustrating the steps and impact on IP address privacy.
 
