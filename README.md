@@ -20,11 +20,10 @@ To see the **AnyDesk IP Leak Vulnerability** in action, you can download the PoC
 These videos showcase how the vulnerability operates, illustrating the steps and impact on IP address privacy.
 
 ## 💎 Introduction
-The Abdal AnyDesk Remote IP Detector is a Proof-of-Concept (PoC) tool that exploits a vulnerability in AnyDesk’s "Allow Direct Connections" feature. When this option is enabled and the connection port is set to 7070 on the attacker's system only, it allows a user with only the AnyDesk ID of the target to retrieve their public IP address without requiring any settings to be changed on the target system. Additionally, if both systems are connected to the same network, it is also possible to obtain the private IP address of the target.
-
+The **Abdal AnyDesk Remote IP Detector** is a Proof-of-Concept (PoC) tool that exploits a **Zero-Day vulnerability** discovered on **October 27, 2024**, in AnyDesk’s "Allow Direct Connections" feature. When this option is enabled, and the connection port is set to 7070 on the attacker's system only, it allows an attacker to retrieve the public IP address of a target using only the AnyDesk ID, without any configuration changes on the target system. Additionally, if both systems are on the same network, the attacker can also obtain the target’s private IP address.
 
 ## 💀 Vulnerability Overview
-This vulnerability leverages the "Allow Direct Connections" feature in AnyDesk, potentially exposing sensitive IP information of a target. Attackers can use this flaw to acquire the public IP and, under certain conditions, the private IP address of the target machine. The vulnerability highlights privacy risks associated with remote access tools when security settings are not appropriately configured.
+This **Zero-Day vulnerability** in AnyDesk's "Allow Direct Connections" feature exposes sensitive IP information of the target. Attackers can exploit this flaw to retrieve the public IP address, and, in specific cases, the private IP address of the target system. This vulnerability poses significant privacy risks, particularly when security configurations are insufficiently protected in remote access tools.
 
 ## ✨ Features
 * Retrieves public IP address of a remote system when AnyDesk ID is known.
@@ -61,7 +60,9 @@ The tool will output:
 * The public IP address of the remote system.
 * The private IP address if the two systems are within the same local network.
 
+## 🛑 Affected Versions
 
+This vulnerability affects **AnyDesk version 8.1.0 and below**. As of now, there is no fixed version released to address this issue.
 
 ## ✅ Mitigation
 Unfortunately, there is currently no user-side fix for this vulnerability. To fully address this issue, an update or patch from AnyDesk’s development team is required.
