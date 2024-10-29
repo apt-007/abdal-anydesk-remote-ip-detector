@@ -3,6 +3,7 @@
 
 ## 🎤 README Translation
 - [English](README.md)
+- [Deutsch](README.de.md)
 - [فارسی](README.fa.md)
 
 ## 📸 Screenshot
