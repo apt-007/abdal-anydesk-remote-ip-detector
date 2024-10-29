@@ -25,6 +25,11 @@ The **Abdal AnyDesk Remote IP Detector** is a Proof-of-Concept (PoC) tool that e
 ## 💀 Vulnerability Overview
 This **Zero-Day vulnerability** in AnyDesk's "Allow Direct Connections" feature exposes sensitive IP information of the target. Attackers can exploit this flaw to retrieve the public IP address, and, in specific cases, the private IP address of the target system. This vulnerability poses significant privacy risks, particularly when security configurations are insufficiently protected in remote access tools.
 
+When the Allow Direct Connections option is enabled on the attacker’s system, AnyDesk inadvertently exposes the target’s public IP address in network traffic. This IP address can be easily identified through network sniffing on the attacker’s system. If both systems are on the same local network, the target’s private IP address may also be accessible. The image below demonstrates the network traffic capture using the Abdal Sniffer tool, highlighting how this information is exposed.
+
+<p align="center"><img src="vulnerability-overview-01.png?raw=true"></p>
+
+
 ## ✨ Features
 * Retrieves public IP address of a remote system when AnyDesk ID is known.
 * Private IP detection within local network connections.
