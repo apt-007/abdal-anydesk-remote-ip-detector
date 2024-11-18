@@ -1,4 +1,4 @@
-# AnyDesk IP-Leak-Sicherheitslücke
+# AnyDesk IP-Leak-Sicherheitslücke CVE-2024-52940
 
 
 ## 🎤 README-Übersetzungen
@@ -29,6 +29,10 @@ Diese **Zero-Day-Sicherheitslücke** in der „Allow Direct Connections“-Funkt
 Wenn die Option „Allow Direct Connections“ auf dem System des Angreifers aktiviert ist, gibt AnyDesk versehentlich die öffentliche IP-Adresse des Ziels im Netzwerkverkehr preis. Diese IP-Adresse kann durch Netzwerksniffing auf dem System des Angreifers leicht identifiziert werden. Wenn beide Systeme im selben lokalen Netzwerk sind, kann auch die private IP-Adresse des Ziels zugänglich sein. Das folgende Bild zeigt die Erfassung des Netzwerkverkehrs mithilfe des Abdal Sniffer-Tools und veranschaulicht, wie diese Informationen offengelegt werden.
 
 <p align="center"><img src="vulnerability-overview-01.png?raw=true"></p>
+
+### 🔍 CVE-Details
+Diese Schwachstelle wurde offiziell als **CVE-2024-52940** registriert.  
+Weitere Informationen finden Sie auf der [CVE-2024-52940-Seite im NVD](https://nvd.nist.gov/vuln/detail/CVE-2024-52940).
 
 
 ## ✨ Funktionen
@@ -78,6 +82,10 @@ Leider gibt es derzeit keine Benutzerspezifische Lösung für diese Sicherheitsl
 ## 🎖️ Anerkennung
 - **Entdeckung des Bugs und PoC-Entwickler**: Ebrahim Shafiei (EbraSha)
 - [Profil auf LinkedIn](https://www.linkedin.com/in/profshafiei/)
+
+
+Diese Sicherheitslücke, identifiziert als **CVE-2024-52940**, wurde offiziell von Tenable unter dem Namen von **Ebrahim Shafiei (EbraSha)** registriert.  
+Details zur Registrierung finden Sie auf der [Tenable-CVE-Seite](https://www.tenable.com/cve/CVE-2024-52940).
 
 ## ❤️ Spenden
 Falls Ihnen dieses Projekt hilfreich erscheint und Sie die weitere Entwicklung unterstützen möchten, können Sie gerne eine Spende machen:
