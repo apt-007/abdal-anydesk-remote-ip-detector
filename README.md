@@ -32,12 +32,12 @@ When the Allow Direct Connections option is enabled on the attacker’s system, 
 
 ### 🔍 CVE Details
 This vulnerability has been officially registered as **CVE-2024-52940**.  
-It was submitted and registered under the name of **Ebrahim Shafiei (EbraSha)** by both **NIST** (National Institute of Standards and Technology) and **Tenable**.
+It was submitted and registered under the name of **Ebrahim Shafiei (EbraSha)** by **NIST** (National Institute of Standards and Technology), **Tenable**, and **MITRE**, a U.S. government advisory organization in scientific and technical domains.
 
 For more information, visit:
 - [CVE-2024-52940 page on NVD (NIST)](https://nvd.nist.gov/vuln/detail/CVE-2024-52940)
 - [Tenable CVE Page](https://www.tenable.com/cve/CVE-2024-52940)
-
+- [MITRE CVE Page](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-52940)
 
 
 ## ✨ Features
