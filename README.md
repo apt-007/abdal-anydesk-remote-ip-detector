@@ -32,7 +32,13 @@ When the Allow Direct Connections option is enabled on the attacker’s system, 
 
 ### 🔍 CVE Details
 This vulnerability has been officially registered as **CVE-2024-52940**.  
-For more information, visit the [CVE-2024-52940 page on NVD](https://nvd.nist.gov/vuln/detail/CVE-2024-52940).
+It was submitted and registered under the name of **Ebrahim Shafiei (EbraSha)** by both **NIST** (National Institute of Standards and Technology) and **Tenable**.
+
+For more information, visit:
+- [CVE-2024-52940 page on NVD (NIST)](https://nvd.nist.gov/vuln/detail/CVE-2024-52940)
+- [Tenable CVE Page](https://www.tenable.com/cve/CVE-2024-52940)
+
+
 
 ## ✨ Features
 * Retrieves public IP address of a remote system when AnyDesk ID is known.
@@ -80,11 +86,7 @@ Unfortunately, there is currently no user-side fix for this vulnerability. To fu
 - **Bug Discovery and PoC Developer**: Ebrahim Shafiei (EbraSha)
 - [Profile on Linkedin](https://www.linkedin.com/in/profshafiei/)
 
-
-This vulnerability, identified as **CVE-2024-52940**, has been officially registered by Tenable under the name of **Ebrahim Shafiei (EbraSha)**.  
-You can view the registration details on the [Tenable CVE Page](https://www.tenable.com/cve/CVE-2024-52940).
-
-
+ 
 ## ❤️ Donation
 If you find this project helpful and would like to support further development, please consider making a donation:
 - [Donate Here](https://ebrasha.com/abdal-donation)

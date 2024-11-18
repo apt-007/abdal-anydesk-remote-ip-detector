@@ -32,7 +32,11 @@ Wenn die Option „Allow Direct Connections“ auf dem System des Angreifers akt
 
 ### 🔍 CVE-Details
 Diese Schwachstelle wurde offiziell als **CVE-2024-52940** registriert.  
-Weitere Informationen finden Sie auf der [CVE-2024-52940-Seite im NVD](https://nvd.nist.gov/vuln/detail/CVE-2024-52940).
+Sie wurde unter dem Namen **Ebrahim Shafiei (EbraSha)** von sowohl **NIST** (National Institute of Standards and Technology) als auch **Tenable** eingereicht und registriert.
+
+Weitere Informationen finden Sie unter:
+- [CVE-2024-52940-Seite bei NVD (NIST)](https://nvd.nist.gov/vuln/detail/CVE-2024-52940)
+- [Tenable-CVE-Seite](https://www.tenable.com/cve/CVE-2024-52940)
 
 
 ## ✨ Funktionen
@@ -84,9 +88,7 @@ Leider gibt es derzeit keine Benutzerspezifische Lösung für diese Sicherheitsl
 - [Profil auf LinkedIn](https://www.linkedin.com/in/profshafiei/)
 
 
-Diese Sicherheitslücke, identifiziert als **CVE-2024-52940**, wurde offiziell von Tenable unter dem Namen von **Ebrahim Shafiei (EbraSha)** registriert.  
-Details zur Registrierung finden Sie auf der [Tenable-CVE-Seite](https://www.tenable.com/cve/CVE-2024-52940).
-
+ 
 ## ❤️ Spenden
 Falls Ihnen dieses Projekt hilfreich erscheint und Sie die weitere Entwicklung unterstützen möchten, können Sie gerne eine Spende machen:
 - [Hier spenden](https://ebrasha.com/abdal-donation)
